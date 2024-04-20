@@ -89,6 +89,6 @@ docker run -d -p 8088:80 nginx-ahmedelshahat
 
 #### 4. Test the Container, open your browser and navigate to http://localhost:8088 to check if everything is okay
 ```bash
-![photo](https://github.com/ahmeddmahmoud/ITI_DockerLab1/blob/main/photo.png?raw=true)
+![photo](https://raw.githubusercontent.com/ahmeddmahmoud/ITI_DockerLab1/main/photo.png)
 ```
 
