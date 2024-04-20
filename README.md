@@ -11,15 +11,20 @@ docker run hello-world
 ```
 #### 2. Check Container Status and Explain
 ```bash
+docker ps -a
+This status means that the container has stopped running after completing its task
 ```
 #### 3. Start the Stopped Container
 ```bash
+docker start 0b65f540d731
 ```
 #### 4. Remove the Container
 ```bash
+docker rm 0b65f540d731
 ```
 #### 5. Remove the Image
 ```bash
+docker rmi hello-world
 ```
 ---
 
